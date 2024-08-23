@@ -64,7 +64,7 @@ body{
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
 
 .light-background {
-  --background-color: #f2f2f2;
+  --background-image:url(/pexels-alexasfotos-6932338.jpg);
   --surface-color: #ffffff;
 }
 
